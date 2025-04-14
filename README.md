@@ -1,6 +1,6 @@
 # AI Task Automation Agent
 
-This project implements an AI-powered agent that automates tasks on a local computer. The agent can be run through the command line, Terminal, or as a Visual Studio Code (VSCode) extension. The goal is to enable users to automate repetitive tasks by describing them in natural language, allowing the agent to generate a plan of actions using an AI API, get user approval, and execute the task locally. If the task fails, the agent refines the plan based on user feedback and retries the task.
+This project implements an AI-powered agent that automates tasks on a local computer. The agent can be run through the command line or Terminal. The goal is to enable users to automate repetitive tasks by describing them in natural language, allowing the agent to generate a plan of actions using an AI API, get user approval, and execute the task locally. If the task fails, the agent refines the plan based on user feedback and retries the task.
 
 ## Project Overview
 
