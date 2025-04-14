@@ -29,6 +29,5 @@ The AI Task Automation Agent is designed to:
 
 - **Python**: Programming language for implementing the agent.
 - **AI API**: Used for generating task plans and handling task refinements.
-- **VSCode Extension (Bonus)**: For integrating the agent into a development environment.
 - **Click**: Python library used to build the command-line interface (CLI).
 - **OpenAI API or equivalent**: Used to process natural language inputs and generate executable plans (task generation).
